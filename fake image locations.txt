@@ -1,0 +1,8 @@
+C:\Users\BAYDEMIR\Desktop\Real And Fake Face Detection\dataset\test\fake\mid_179_1111.jpg
+C:\Users\BAYDEMIR\Desktop\Real And Fake Face Detection\dataset\test\real\real_00780.jpg
+C:\Users\BAYDEMIR\Desktop\Real And Fake Face Detection\dataset\test\fake\mid_279_1111.jpg
+C:\Users\BAYDEMIR\Desktop\Real And Fake Face Detection\dataset\test\real\real_00786.jpg
+
+
+Easy Fakes
+C:\Users\BAYDEMIR\Desktop\Real And Fake Face Detection\dataset\training\fake\easy_7_1100.jpg
